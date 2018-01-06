@@ -1,0 +1,2 @@
+discord:
+	DISCORD_TOKEN: 'YOURTOKENHERE'
